@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c9d20c5f57d1c2470b5465ed",
+  "owner": "phynwd",
+  "repo": "page-2a08fff0dd00d78bc7a46f18",
+  "title": "大白互联(DBAICloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2a08fff0dd00d78bc7a46f18",
+      "a": "大白互联(DBAICloud)",
+      "b": "",
+      "entity": "大白互联(DBAICloud)",
+      "brand": "大白互联(DBAICloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0292d7806ab46a218b2912aeb1818b70173f607e39d6e1bdc6a22228f66b58f8",
+      "content": {
+        "keyword1": "大白互联(DBAICloud)",
+        "keyword2": "",
+        "primary_entity": "大白互联(DBAICloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大白互联（DBAICloud）提供基础版、旗舰版、团队版三档订阅方案，按流量与设备数区分。这里说明各档权益、选择思路与常见问题。",
+          "AI_DESCRIPTION": "大白互联（DBAICloud）提供基础版、旗舰版、团队版三档订阅方案，按流量与设备数区分。这里说明各档权益、选择思路与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root{--slate-900:#1c2226;--slate-800:#2a3237;--slate-700:#3d474d;--slate-500:#6d7a81;--slate-300:#c3cbd0;--slate-200:#dde3e6;--slate-100:#eef2f4;--paper:#f7f9fa;--cyan:#0e8f96;--cyan-deep:#0a6a70;--cyan-soft:#d9eef0;--radius:22px;--shadow:0 18px 44px -28px rgba(28,34,38,.45)}\n  *{box-sizing:border-box}\n  html{-webkit-text-size-adjust:100%}\n  body{margin:0;background:var(--paper);color:var(--slate-800);font-family:\"Helvetica Neue\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",system-ui,sans-serif;font-size:16px;line-height:1.75;letter-spacing:.01em}\n  a{color:var(--cyan-deep);text-decoration:none;border-bottom:1px solid var(--cyan-soft)}\n  a:hover{color:var(--slate-900);border-bottom-color:var(--slate-500)}\n  .wrap{width:100%;max-width:1080px;margin:0 auto;padding:0 22px}\n\n  /* ---------- 首屏：窄栏居左，大面积留白 ---------- */\n  .hero{background:linear-gradient(180deg,#ffffff 0%,#f7f9fa 78%,#eef2f4 100%);padding:clamp(48px,9vw,110px) 0 clamp(36px,6vw,72px);border-bottom:1px solid var(--slate-200)}\n  .hero-inner{max-width:600px}\n  .eyebrow{display:inline-block;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--cyan-deep);background:var(--cyan-soft);padding:5px 12px;border-radius:999px;margin:0 0 26px}\n  h1{font-size:clamp(30px,5.4vw,46px);line-height:1.22;letter-spacing:-.015em;margin:0 0 8px;color:var(--slate-900);font-weight:700}\n  .h1-sub{margin:0 0 22px;font-size:clamp(15px,2.2vw,18px);color:var(--slate-500);font-weight:400}\n  .hero p.lead{margin:0 0 28px;font-size:17px;color:var(--slate-700);max-width:34em}\n  .nav-tabs{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 30px;padding:0;list-style:none}\n  .nav-tabs a{display:inline-block;padding:8px 16px;border:1px solid var(--slate-300);border-radius:999px;background:#fff;color:var(--slate-700);font-size:14px;transition:.18s}\n  .nav-tabs a:hover{border-color:var(--cyan);color:var(--cyan-deep);background:var(--cyan-soft)}\n  .hero-meta{display:flex;flex-wrap:wrap;gap:14px 34px;margin:0;padding:22px 0 0;border-top:1px solid var(--slate-200);font-size:14px;color:var(--slate-500);list-style:none}\n  .hero-meta strong{display:block;color:var(--slate-900);font-size:15px}\n\n  /* ---------- 通用区块 ---------- */\n  section{padding:clamp(44px,7vw,84px) 0}\n  .sec-head{max-width:640px;margin-bottom:clamp(24px,4vw,40px)}\n  h2{font-size:clamp(22px,3.4vw,30px);line-height:1.3;letter-spacing:-.01em;margin:0 0 12px;color:var(--slate-900)}\n  .sec-head p{margin:0;color:var(--slate-500);font-size:15px}\n  h3{font-size:17px;margin:0 0 8px;color:var(--slate-900)}\n  p{margin:0 0 14px}\n  p:last-child{margin-bottom:0}\n\n  /* ---------- 大圆角软阴影卡片 ---------- */\n  .card{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:clamp(22px,3.4vw,34px)}\n  .grid-3{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(238px,1fr))}\n  .step-index{display:inline-block;font-size:12px;letter-spacing:.16em;color:var(--cyan-deep);margin-bottom:6px}\n\n  /* ---------- 套餐：纵向列表逐行展开 ---------- */\n  .plans{display:flex;flex-direction:column;gap:18px;margin:0;padding:0;list-style:none}\n  .plan{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:clamp(22px,3.4vw,32px);display:grid;grid-template-columns:minmax(180px,.9fr) 1.7fr;gap:18px 34px;align-items:start}\n  .plan.is-featured{background:var(--slate-900);color:var(--slate-200)}\n  .plan.is-featured h3{color:#fff}\n  .plan.is-featured .plan-price{color:#fff}\n  .plan.is-featured .plan-note{color:var(--slate-300)}\n  .plan.is-featured li{border-top-color:rgba(255,255,255,.14)}\n  .plan.is-featured .tag{background:var(--cyan);color:#fff}\n  .tag{display:inline-block;font-size:11px;letter-spacing:.14em;padding:3px 10px;border-radius:999px;background:var(--cyan-soft);color:var(--cyan-deep);margin-bottom:10px}\n  .plan-price{font-size:26px;font-weight:700;color:var(--slate-900);letter-spacing:-.01em;line-height:1.2}\n  .plan-price span{font-size:14px;font-weight:400;color:inherit;opacity:.7}\n  .plan-note{margin:6px 0 0;font-size:13.5px;color:var(--slate-500)}\n  .plan ul{list-style:none;margin:0;padding:0}\n  .plan li{padding:9px 0;border-top:1px solid var(--slate-200);font-size:15px}\n  .plan li:first-child{border-top:0;padding-top:0}\n\n  /* ---------- 客户端 ---------- */\n  .client-grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(238px,1fr))}\n  .client-grid ul{list-style:none;margin:12px 0 0;padding:0;font-size:14.5px;color:var(--slate-700)}\n  .client-grid li{padding:5px 0;border-top:1px dashed var(--slate-200)}\n  .client-grid li:first-child{border-top:0}\n\n  /* ---------- FAQ：编号列表 ---------- */\n  .faq-list{list-style:none;margin:0;padding:0;counter-reset:faq}\n  .faq-list > li{counter-increment:faq;background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:clamp(20px,3vw,28px) clamp(20px,3vw,30px);margin-bottom:16px;position:relative;padding-left:74px}\n  .faq-list > li::before{content:counter(faq,decimal-leading-zero);position:absolute;left:clamp(20px,3vw,30px);top:clamp(20px,3vw,28px);font-size:15px;font-weight:700;color:var(--cyan);letter-spacing:.04em}\n  .faq-list h3{font-size:16.5px;margin-bottom:6px}\n  .faq-list p{font-size:15px;color:var(--slate-700)}\n\n  /* ---------- 结尾 ---------- */\n  .note-band{background:var(--slate-900);color:var(--slate-200);border-radius:var(--radius);padding:clamp(24px,4vw,40px)}\n  .note-band h2{color:#fff}\n  .note-band p{color:var(--slate-300)}\n  footer{padding:34px 0 46px;border-top:1px solid var(--slate-200);margin-top:34px;font-size:13.5px;color:var(--slate-500)}\n  footer p{margin:0 0 6px}\n\n  @media (max-width:640px){\n    .plan{grid-template-columns:1fr;gap:16px}\n    .faq-list > li{padding-left:64px}\n    .hero-meta{gap:12px 24px}\n  }\n</style><main>\n\n  <header class=\"hero\">\n    <div class=\"wrap\">\n      <div class=\"hero-inner\">\n        <p class=\"eyebrow\">DBAICloud · 订阅说明</p>\n        <h1>大白互联(DBAICloud) · 大白互联</h1>\n        <p class=\"h1-sub\">把订阅看清楚，再决定要不要。</p>\n        <p class=\"lead\">三档方案，差别只在流量、设备数和线路优先级。没有隐藏加价，没有必须捆绑的附加项。下面是逐条列出的权益与使用方式。</p>\n\n        <nav aria-label=\"页面内导航\">\n          <ul class=\"nav-tabs\">\n            <li><a href=\"#plans\">订阅方案</a></li>\n            <li><a href=\"#howto\">使用说明</a></li>\n            <li><a href=\"#clients\">客户端</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n          </ul>\n        </nav>\n\n        <ul class=\"hero-meta\">\n          <li><strong>三档</strong>基础 / 旗舰 / 团队</li>\n          <li><strong>月付或年付</strong>年付为十个月价位</li>\n          <li><strong>按设备数</strong>3 / 5 / 20 台</li>\n        </ul>\n      </div>\n    </div>\n  </header>\n\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <h2>订阅方案</h2>\n        <p>从上到下行数递增，先看流量，再看设备数，最后看线路。年付价格按十个月计。</p>\n      </div>\n\n      <ul class=\"plans\">\n        <li class=\"plan\">\n          <div>\n            <span class=\"tag\">入门</span>\n            <h3>基础版</h3>\n            <p class=\"plan-price\">¥15<span> / 月</span></p>\n            <p class=\"plan-note\">按年付 ¥150 / 年</p>\n          </div>\n          <ul>\n            <li>每月 100GB 流量</li>\n            <li>同时在线 3 台设备</li>\n            <li>基础流媒体解锁</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </li>\n\n        <li class=\"plan is-featured\">\n          <div>\n            <span class=\"tag\">推荐</span>\n            <h3>旗舰版</h3>\n            <p class=\"plan-price\">¥35<span> / 月</span></p>\n            <p class=\"plan-note\">按年付 ¥350 / 年</p>\n          </div>\n          <ul>\n            <li>每月 300GB 流量</li>\n            <li>同时在线 5 台设备</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7×24 优先工单支持</li>\n          </ul>\n        </li>\n\n        <li class=\"plan\">\n          <div>\n            <span class=\"tag\">多人</span>\n            <h3>团队版</h3>\n            <p class=\"plan-price\">¥85<span> / 月</span></p>\n            <p class=\"plan-note\">按年付 ¥850 / 年</p>\n          </div>\n          <ul>\n            <li>每月 1000GB 流量</li>\n            <li>同时在线 20 台设备</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </li>\n      </ul>\n    </div>\n  </section>\n\n  <section id=\"howto\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <h2>使用说明</h2>\n        <p>四步，从选档到开始用。每一步都只需要几分钟。</p>\n      </div>\n\n      <div class=\"grid-3\">\n        <article class=\"card\">\n          <span class=\"step-index\">STEP 01</span>\n          <h3>先数设备</h3>\n          <p>把手机、平板、笔记本一起算上。同时在线数量是硬上限，超出的设备需要断开一台。</p>\n        </article>\n        <article class=\"card\">\n          <span class=\"step-index\">STEP 02</span>\n          <h3>再估流量</h3>\n          <p>只收发消息和看网页，100GB 通常够用一个月。常看高清视频或频繁传文件，直接考虑旗舰版。</p>\n        </article>\n        <article class=\"card\">\n          <span class=\"step-index\">STEP 03</span>\n          <h3>选好计费周期</h3>\n          <p>月付适合先试一个周期，年付适合确认长期使用。两者权益一致，差别只在结算方式。</p>\n        </article>\n        <article class=\"card\">\n          <span class=\"step-index\">STEP 04</span>\n          <h3>在客户端里配置</h3>\n          <p>按所用系统选择对应客户端，用订阅信息完成配置。客户端界面里的参数以实际显示为准。</p>\n        </article>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <h2>客户端</h2>\n        <p>大白互联不自建客户端，使用你所选系统的现有工具。下面按系统说明准备事项，下载地址请以官方渠道为准。</p>\n      </div>\n\n      <div class=\"client-grid\">\n        <article class=\"card\">\n          <h3>Windows / macOS</h3>\n          <p>桌面端适合固定办公场景，配置一次后可长期使用。</p>\n          <ul>\n            <li>准备订阅信息</li>\n            <li>选用系统对应的桌面客户端</li>\n            <li>下载地址：以官方发布渠道为准</li>\n          </ul>\n        </article>\n        <article class=\"card\">\n          <h3>Android / iOS</h3>\n          <p>移动端切换网络频繁，注意保持客户端为较新版本。</p>\n          <ul>\n            <li>从系统应用商店获取客户端</li>\n            <li>按应用内指引导入订阅</li>\n            <li>下载地址：以应用商店页面为准</li>\n          </ul>\n        </article>\n        <article class=\"card\">\n          <h3>路由器 / 家庭网络</h3>\n          <p>一台设备覆盖全屋，适合设备数量多、不想逐台配置的情况。</p>\n          <ul>\n            <li>需要路由器具备相应配置能力</li>\n            <li>配置方法与路由器固件相关</li>\n            <li>下载地址：以固件官方渠道为准</li>\n          </ul>\n        </article>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <h2>常见问题</h2>\n        <p>六个问题，覆盖选档、计费与配置三方面。</p>\n      </div>\n\n      <ol class=\"faq-list\">\n        <li>\n          <h3>三档方案的主要区别是什么？</h3>\n          <p>三处：每月流量（100GB / 300GB / 1000GB）、同时在线设备数（3 / 5 / 20 台），以及线路与支持等级。旗舰版与团队版在流媒体解锁范围和线路优先级上更高。</p>\n        </li>\n        <li>\n          <h3>年付是怎么算的？</h3>\n          <p>年付按十个月的价格结算：基础版 ¥150、旗舰版 ¥350、团队版 ¥850，使用期覆盖一年。权益与同档月付一致。</p>\n        </li>\n        <li>\n          <h3>流量每月什么时候重置？</h3>\n          <p>以你所选计费周期的起始日为基准逐月重置。具体日期请以账户内显示的周期信息为准。</p>\n        </li>\n        <li>\n          <h3>同时在线设备超了会怎样？</h3>\n          <p>超出上限后，新设备可能无法连接，需要先断开其中一台。如果经常触及上限，说明当前档位偏低，可以考虑升级。</p>\n        </li>\n        <li>\n          <h3>可以先月付再改年付吗？</h3>\n          <p>可以按周期调整。已付费用如何折算，取决于当时的账户状态，请在调整前先确认账户内的结算说明。</p>\n        </li>\n        <li>\n          <h3>配置遇到问题怎么排查？</h3>\n          <p>先确认客户端版本较新，再核对订阅信息是否完整导入。旗舰版与团队版可通过优先工单或客户经理获得支持。</p>\n        </li>\n      </ol>\n    </div>\n  </section>\n\n  <section>\n    <div class=\"wrap\">\n      <div class=\"note-band\">\n        <h2>选择建议</h2>\n        <p>一个人、两三台设备、以浏览和通讯为主，基础版够用。多设备加上视频需求，旗舰版更省心。设备数超过十台或有团队协作需求，再看团队版。</p>\n        <p>本文所列价格与权益为方案说明，实际结算与可用状态以账户页面显示为准。</p>\n      </div>\n\n      <footer>\n        <p>大白互联（DBAICloud）· 订阅方案与使用说明</p>\n        <p>页面内容用于说明方案差异，不构成服务承诺。</p>\n      </footer>\n    </div>\n  </section>\n\n</main>",
+          "hash": "e21ec012230d0942a144757ce03314967f1ff5c18fd7ce722293236c571b139a",
+          "seo": {
+            "title": "大白互联 DBAICloud — 订阅方案与使用说明",
+            "keywords": "大白互联, DBAICloud, 订阅方案, 使用说明, 常见问题, 客户端",
+            "description": "大白互联（DBAICloud）提供基础版、旗舰版、团队版三档订阅方案，按流量与设备数区分。这里说明各档权益、选择思路与常见问题。"
+          },
+          "provider": "grok",
+          "model": "deepseek-flash",
+          "design": {
+            "no": "446",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qwtsoc.cn",
+    "host": "p-11baa296a3.qwtsoc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d2e699ddc527e8c8bfb74fca3cf58a6e5a0da4730683db04c98030977ede778c",
+    "sitemap.xml": "fb8497607feab78b49eab47ba400289b29185ebb6eb815e39f9aca62cef546e8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8628dfb0f93ffa8ed1d6f2497e2c5b81a37028f8bf8c24f830cc9cabc5c329a8",
+    "robots.txt": "8a06f13ea78eaff1458f1dee6d3bbc2e80f5842828d616b6914168be01e1edb2",
+    "70a2fe47b8575a4adcd158aec58f39a1.txt": "984c1f736abf9f715385ff69e0e81761f96e2e9275f01144f8a630320a096889"
+  },
+  "revision": "ca1b34795dff16a867cc56d19babf89b2e743ebbda2dc2e30666d37411c5a880"
+}
